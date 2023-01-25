@@ -5,8 +5,7 @@ button.language {
   /* your code here 👇 */
 
   margin-left: 12px;
-  margin-right: 16px;
-  padding-top: 6px;
-  padding-bottom: 6px;
+  margin-right: 12px;
+  padding: 6px 16px;
   border-radius: 6px;
 }
