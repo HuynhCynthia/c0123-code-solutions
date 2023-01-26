@@ -1,37 +1,11 @@
-#firstrow {
-  display: flex;
+.container {
   max-width: 800px;
   margin: 0 auto;
 }
 
-#secondrow {
+.secondrow,
+.thirdrow,
+.fourthrow,
+.fifthrow, {
   display: flex;
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.secondcolumns {
-  flex-basis: calc(100% / 3);
-}
-
-#thirdrow {
-  display: flex;
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-#fourthrow {
-  display: flex;
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-#fifthrow {
-  display: flex;
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-#thirdrow img {
-  width: 100%;
 }
