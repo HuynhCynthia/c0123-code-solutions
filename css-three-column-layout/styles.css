@@ -1,11 +1,12 @@
 body {
   background-color: #1996da;
-  font-family: Lato, Arial, Helvetica, sans-serif;
+  font-family: Lato, sans-serif;
 }
 
 .container {
   width: 950px;
-  margin: auto;
+  display: flex;
+  margin: 200px auto;
 }
 
 .purpose {
@@ -57,4 +58,5 @@ h3 {
 img {
   margin: 18px;
   width: 60%;
+}
 }
