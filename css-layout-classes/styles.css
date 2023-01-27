@@ -3,17 +3,16 @@
   margin: 0 auto;
 }
 
-img {
-  width: 100%;
-}
-
 .row {
   display: flex;
-  width: 100%;
 }
 
 .column-summary {
   width: calc(100% / 3);
+}
+
+.four-characters {
+  width: 25%;
 }
 
 .dk-bio {
@@ -21,5 +20,9 @@ img {
 }
 
 .mario-image {
+  width: 100%;
+}
+
+img {
   width: 100%;
 }
