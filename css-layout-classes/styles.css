@@ -3,9 +3,23 @@
   margin: 0 auto;
 }
 
-.secondrow,
-.thirdrow,
-.fourthrow,
-.fifthrow, {
+img {
+  width: 100%;
+}
+
+.row {
   display: flex;
+  width: 100%;
+}
+
+.column-summary {
+  width: calc(100% / 3);
+}
+
+.dk-bio {
+  width: 100%;
+}
+
+.mario-image {
+  width: 100%;
 }
