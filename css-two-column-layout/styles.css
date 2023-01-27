@@ -1,0 +1,57 @@
+.container {
+  font-family: Karla, serif;
+  width: 950px;
+  margin: auto;
+}
+
+h3 {
+  text-transform: uppercase;
+  font-size: medium;
+}
+
+.header {
+  text-align: center;
+  width: 70%;
+  margin: auto;
+}
+
+.top-header {
+  width: 100%;
+  text-transform: uppercase;
+  font-size: x-large;
+}
+
+.four-reasons {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tile {
+  flex-basis: calc(100% / 2);
+  display: flex;
+  padding: 23px;
+}
+
+p {
+  line-height: 30px;
+}
+
+.text-tile {
+  margin-top: 30px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  background-color: white;
+  padding: 10px 35px;
+  text-align: center;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #e5302d;
+  border-color: #e5302d;
+  border-style: solid;
+}
