@@ -7,20 +7,20 @@
   display: flex;
 }
 
-.column-summary {
-  width: calc(100% / 3);
+.column-threeparts {
+  flex-basis: calc(100%/3);
 }
 
-.four-characters {
+.column-fourparts {
   flex-basis: 25%;
 }
 
-.dk-bio {
-  width: 100%;
+.column-onethird {
+  flex-basis: calc(100% / 3);
 }
 
-.mario-bio {
-  width: 100%;
+.column-twothirds {
+  flex-basis: calc(200% / 3);
 }
 
 img {
