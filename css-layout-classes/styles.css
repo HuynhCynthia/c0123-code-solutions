@@ -12,14 +12,14 @@
 }
 
 .four-characters {
-  width: 25%;
+  flex-basis: 25%;
 }
 
 .dk-bio {
   width: 100%;
 }
 
-.mario-image {
+.mario-bio {
   width: 100%;
 }
 
