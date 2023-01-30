@@ -1,8 +1,8 @@
-const fullName = 'Cynthia Huynh';
+var fullName = 'Cynthia Huynh';
 var isCool = false;
-const totalPets = 1;
-const unknown = null;
-let never;
+var totalPets = 1;
+var unknown = null;
+var never;
 
 console.log('Full Name:', fullName);
 console.log('Is Cynthia Cool?:', isCool);
