@@ -1,8 +1,8 @@
 .header {
+  display: flex;
   font-family: Avenir, serif;
   border-bottom: 1px solid;
   border-color: #e6e9ec;
-  display: flex;
 }
 
 .button {
@@ -12,6 +12,10 @@
   text-align: center;
   text-decoration: none;
   border-radius: 5px;
+}
+
+img {
+  width: 100%;
 }
 
 .column-header-logo {
