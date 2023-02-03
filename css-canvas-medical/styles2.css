@@ -1,10 +1,3 @@
-.header {
-  font-family: Avenir, serif;
-  border-bottom: 1px solid;
-  border-color: #e6e9ec;
-  display: flex;
-}
-
 .button {
   background-color: #294464;
   border: none;
@@ -14,9 +7,11 @@
   border-radius: 5px;
 }
 
-.column-header-logo {
-  margin: 20px 50px 0;
-  width: 150px;
+.header {
+  font-family: Avenir, serif;
+  border-bottom: 1px solid;
+  border-color: #e6e9ec;
+  display: flex;
 }
 
 .header-links {
