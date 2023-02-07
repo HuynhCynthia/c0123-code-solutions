@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+}
+
+.yellow {
+  display: flex;
+  background-color: #fefaf2;
+  height: 100vh;
+  width: 100vw;
+  align-items: center;
+  justify-items: center;
+}
+
+.circle-container {
+  display: flex;
+  flex-basis: 100%;
+  justify-content: center;
+}
+
+.gold-button {
+  background-color: #fbeb84;
+  border: none;
+  padding: 100px;
+  border-radius: 100px;
+}
+
+.black {
+  display: flex;
+  background-color: #111;
+  height: 100vh;
+  width: 100vw;
+  align-items: center;
+  justify-items: center;
+}
+
+.grey-button {
+  background-color: #232425;
+  border: none;
+  padding: 100px;
+  border-radius: 100px;
+}
