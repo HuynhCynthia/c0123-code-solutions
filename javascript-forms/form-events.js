@@ -28,6 +28,6 @@ $userEmail.addEventListener('blur', handleBlur);
 $userEmail.addEventListener('input', handleInput);
 
 // Message
-$userMessage.addEventListener('click', handleBlur);
+$userMessage.addEventListener('focus', handleBlur);
 $userMessage.addEventListener('blur', handleBlur);
 $userMessage.addEventListener('input', handleInput);

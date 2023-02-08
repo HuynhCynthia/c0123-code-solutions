@@ -1,9 +1,12 @@
 function handleSubmit(event) {
   event.preventDefault();
-  const inputName = $contactForm.name.value;
-  const inputEmail = $contactForm.email.value;
-  const inputMessage = $contactForm.message.value;
+
   var formValues = {};
+
+  var $contactForm = document.querySelector('#contact-form');
+  var inputName = $contactForm.elements.name.value;
+  var inputEmail = $contactForm.elements.email.value;
+  var inputMessage = $contactForm.elements.message.value;
 
   formValues.name = inputName;
   formValues.email = inputEmail;
@@ -14,6 +17,6 @@ function handleSubmit(event) {
   document.querySelector('#contact-form').reset();
 }
 
-var $contactForm = document.querySelector('#contact-form');
+var $submit = document.querySelector('#contact-form');
 
-$contactForm.addEventListener('submit', handleSubmit);
+$submit.addEventListener('submit', handleSubmit);
