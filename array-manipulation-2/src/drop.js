@@ -1,8 +1,8 @@
 /* exported drop */
 function drop(array, count) {
   var newArray = [];
-  for (; count < array.length; count++) {
-    newArray.push(array[count]);
+  for (var i = count; i < array.length; i++) {
+    newArray.push(array[i]);
   }
   return newArray;
 }
