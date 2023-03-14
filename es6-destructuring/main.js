@@ -10,8 +10,35 @@ const book2 = {
   libraryID: 2345
 };
 
+const library = [
+  {
+    title: 'The Road Ahead',
+    author: 'Bill Gates',
+    libraryID: 1254
+  },
+  {
+    title: 'Walter Isaacson',
+    author: 'Steve Jobs',
+    libraryID: 4264
+  },
+  {
+    title: 'Mockingjay: The Final Book of The Hunger Games',
+    author: 'Suzanne Collins',
+    libraryID: 3245
+  },
+  {
+    title: "Dead Dead Demon's De De De De Destruction",
+    author: 'Inio Asano',
+    libraryID: 1233
+  }
+];
+
 const { title, author, libraryID } = book1;
 const { title: title2, author: author2, libraryID: libraryID2 } = book2;
+const { x: book3, y: book4, z: book5 } = library;
 
 console.log(`The title of the book is ${title}, the author is ${author}, and the library id is ${libraryID}`);
 console.log(`The title of the book is ${title2}, the author is ${author2}, and the library id is ${libraryID2}`);
+console.log(book3);
+console.log(book4);
+console.log(book5);
