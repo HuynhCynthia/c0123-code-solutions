@@ -1,0 +1,500 @@
+   25  git switch javascript-forms 
+   26  git add javascript-forms
+   27  git commit -m "javascript-forms - Cynthia Huynh"
+   28  git switch main
+   29  git switch javascript-forms 
+   30  git push origin javascript-forms
+   31  git switch main
+   32  git switch typing
+   33  git switch javascript-typing-tutor 
+   34  git add javascript-typing-tutor
+   35  git commit -m "progress"
+   36  git switch main
+   37  git switch javascript-forms
+   38  git add javascript-forms
+   39  git commit -m "used elements instead"
+   40  git push origin javascript-forms
+   41  git switch main
+   42  git switch dom-creation
+   43  git branch dom-creation
+   44  git switch dom-creation
+   45  git add dom-creation
+   46  git commit -m "dom-create - Cynthia Huynh"
+   47  git push origin dom-creation
+   48  git switch main
+   49  git switch javascript-typing-tutor 
+   50  git add javascript-typing-tutor
+   51  git commit -m "progress"
+   52  git switch main
+   53  git switch css-media-queries
+   54  git branch css-media-queries
+   55  git switch css-media-queries
+   56  git add css-media-queries
+   57  git commit -m "css-media-queries - Cynthia Huynh"
+   58  git push origin css-media-queries
+   59  git switch main
+   60  git switch javascript-typing-tutor 
+   61  git add javascript-typing-tutor
+   62  git commit -m "trying to figured out space"
+   63  git add javascript-typing-tutor
+   64  git commit -m "trying to figured out space"
+   65  git switch main
+   66  git branch dom-event-delegation
+   67  git switch dom-event-delegation 
+   68  git add dom-event-delegation
+   69  git commit -m "dom-event-delegation - Cynthia Huynh"
+   70  git push origin dom-event-delegation
+   71  git switch main
+   72  git switch string-manipulation-2
+   73  git add string-manipulation-2
+   74  git commit -m "progress"
+   75  git commit -m "progress"
+   76  git commit -m "progress"
+   77  git add string-manipulation-2
+   78  git commit -m "progress"
+   79  git switch main
+   80  git switch javascript-view-swapping
+   81  git branch javascript-view-swapping
+   82  git switch javascript-view-swapping
+   83  git add javascript-view-swapping
+   84  git commit -m "javascript-view-swapping - Cynthia Huynh"
+   85  git push origin javascript-view-swapping
+   86  git switch main
+   87  git switch string-manipulation-2
+   88  git switch javascript-view-swapping
+   89  git add string-manipulation-2
+   90  git commit -m "progress"
+   91  git add string-manipulation-2
+   92  git commit -m "progress"
+   93  git switch javascript-view-swapping
+   94  git add javascript-view-swapping/=
+   95  git add javascript-view-swapping
+   96  git commit - m "un-nested for loop"
+   97  git commit -m "un-nested for loop"
+   98  got push origin javascript-view-swapping
+   99  git push origin javascript-view-swapping 
+  100  git switch main
+  101  git switch string-manipulation-2
+  102  git add string-manipulation-2
+  103  git commit -m "progress"
+  104  git add string-manipulation-2
+  105  git commit -m "progress"
+  106  git switch main
+  107  git switch javascript-view-swapping 
+  108  git switch main
+  109  git switch string-manipulation-2
+  110  git add string-manipulation-2
+  111  git commit -m "progress"
+  112  git add string-manipulation-2
+  113  git commit -m "progress"
+  114  git switch main
+  115  git branch css-responsive-layout
+  116  git switch css-responsive-layout
+  117  git add css-responsive-layout
+  118  git commit -m "css-responsive-layout"
+  119  git push origin css-responsive-layout 
+  120  git switch main
+  121  git switch string-manipulation-2
+  122  git switch main
+  123  git add string-manipulation-2
+  124  git commit -m "progress"
+  125  git switch main
+  126  git switch main
+  127  git switch javascript-typing-tutor 
+  128  git add javascript-typing-tutor
+  129  git commit -m "progress"
+  130  git add javascript-typing-tutor
+  131  git commit -m "progress"
+  132  git switch main
+  133  git switch string-manipulation-2
+  134  git add string-manipulation-2
+  135  git commit -m "progress"
+  136  git switch main
+  137  git branch javascript-and-json
+  138  git switch javascript-and-json 
+  139  git add javascript-and-json
+  140  git commit -m "javascript-and-json - Cynthia Huynh"
+  141  git push origin javascript-and-json
+  142  git switch main
+  143  git pull origin main
+  144  git switch string-manipulation-2
+  145  git add string-manipulation-2
+  146  git commit -m "swap-chars"
+  147  git add string-manipulation-2
+  148  git commit -m "swap-chars"
+  149  git switch main
+  150  git branch javascript-local-storage
+  151  git switch javascript-local-storage
+  152  git add javascript-local-storage
+  153  git commit -m "javascript-local-storage - Cynthia Huynh"
+  154  git push origin javascript-local-storage
+  155  git switch main
+  156  git switch string-manipulation-2
+  157  git add string-manipulation-2
+  158  git commit -m "string-manipulation-2 - Cynthia Huynh"
+  159  git push origin string-manipulation-2
+  160  git switch main
+  161  git add array-manipulation-2
+  162  git branch array-manipulation-2
+  163  git switch array-manipulation-2
+  164  git add array-manipulation-2
+  165  git commit -m "array-manipulation-2 - Cynthia Huynh"
+  166  git push origin array-manipulation-2
+  167  git switch main
+  168  git switch object-manipulation-2
+  169  git branch object-manipulation-2
+  170  git switch object-manipulation-2
+  171  git add object-manipulation-2
+  172  git commit -m "object-manipulation-2 - Cynthia Huynh"
+  173  git push origin object-manipulation-2
+  174  git switch main
+  175  git switch javascript-typing-tutor 
+  176  git add javascript-typing-tutor
+  177  git swtich main
+  178  git switch main
+  179  git commit -m "restructure typing tutor"
+  180  git add javascript-typing-tutor
+  181  git commit -m "restructure typing tutor"
+  182  git switch main
+  183  git branch javascript-custom-methods/
+  184  git branch javascript-custom-methods
+  185  git switch javascript-custom-methods 
+  186  git add .
+  187  git commit -m "created functions to add calculation features to calculator"
+  188  git push origin javascript-custom-methods 
+  189  git switch main
+  190  git pull origin main
+  191  git branch javascript-this
+  192  git switch javascript-this
+  193  git add .
+  194  git commit -m "created variable and function for student introductions"
+  195  git push origin javascript-this 
+  196  git switch main
+  197  git branch javascript-prototypes
+  198  git switch javascript-prototypes
+  199  git add .
+  200  git status
+  201  git commit -m "setPrototype of warner siblings objects to return description"
+  202  git push origin javascript-prototypes
+  203  git switch main
+  204  git branch javascript-constructors
+  205  git switch javascript-constructors 
+  206  git add .
+  207  git commit -m "created student constructor as well as prototype for fullname and intro"
+  208  git push origin javascript-constructors
+  209  git switch main
+  210  git pull origin main
+  211  git pull origin main
+  212  git pull origin main
+  213  git branh string-manipulation-3
+  214  git branch string-manipulation-3
+  215  git switch string-manipulation-3
+  216  git add .
+  217  git commit -m "palindromic function created"
+  218  git switch main
+  219  git branch javascript-bank
+  220  git switch javascript-bank
+  221  git add .
+  222  git commit -m "created bank constructor"
+  223  git push origin javascript-bank
+  224  git switch main
+  225  git pull origin main
+  226  git branch http-messages
+  227  git switch http-messages 
+  228  cd
+  229  http http://example.com
+  230  http --verbose http://www.example.com
+  231  http --body GET https://jsonplaceholder.typicode.com/users > http-messages/users.json
+  232  http --body GET https://jsonplaceholder.typicode.com/users > users.json 
+  233  http --body GET https://jsonplaceholder.typicode.com/users > http-messages/users.json 
+  234  cd ~
+  235  cd ls
+  236  ls
+  237  cd
+  238  http --body GET https://jsonplaceholder.typicode.com/users > http-messages/users.json
+  239  q
+  240  exit
+  241  cd list
+  242  ls
+  243  cd http-messages
+  244  http
+  245  http https://example.com
+  246  http --verbose http://www.example.com
+  247  http --body GET https://jsonplaceholder.typicode.com/users > http-messages/users.json
+  248  http --body GET https://jsonplaceholder.typicode.com/users >/http-messages/users.json
+  249  git switch main
+  250  git list
+  251  git ls
+  252  git branch
+  253  git branch javascript-ajax
+  254  git switch javascript-ajax
+  255  git add .
+  256  git commit -m "practicing with AJAX"
+  257  git push origin javascript-ajax 
+  258  git switch main
+  259  cd
+  260  http http://example.com
+  261  http --verbose http://www.example.com
+  262  http --body GET https://jsonplaceholder.typicode.com/users > http-messages/users.json
+  263  cd
+  264  git switch http-messages 
+  265  cd
+  266  http https://example.com
+  267  http --verbose https://example.com
+  268  http --body GET https://jsonplaceholder.typicode.com/users > http-messages/users.json
+  269  ls
+  270  git branch
+  271  git branch -r
+  272  git branch -a
+  273  ls
+  274  git switch main
+  275  ls
+  276  git switch http-messages 
+  277  ls
+  278  http --body GET https://example.com > http-messages/index.html
+  279  git add .
+  280  git commit -"creating http-messages directory"
+  281  git commit -m "creating http-messages directory"
+  282  http --body GET https://example.com > http-messages/index.html
+  283  bash: http-messages/index.html: No such file or directory
+  284  git switch main
+  285  git switch http-messages 
+  286  git switch main
+  287  git switch http-messages 
+  288  ls
+  289  git switch main
+  290  git branch --delete http-messages
+  291  git branch -a
+  292  git branch
+  293  git branch -r
+  294  git switch http-messages
+  295  git branch http-messages
+  296  git switch http-messages
+  297  http http://www.example.com
+  298  http --verbose http://www.example.com
+  299  http --body GET https://jsonplaceholder.typicode.com/users > http-messages/users.json
+  300  http --body GET https://example.com > http-messages/index.html
+  301  git add .
+  302  git commit -m "completed http-messages exercise"
+  303  git push origin http-messages
+  304  git switch main
+  305  http https://www.healthcare.gov/:post-title.json
+  306  http https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/irvine?unitGroup=metric&key=YOUR_API_KEY&contentType=json
+  307  exit
+  308  http https://rickandmortyapi.com/graphql
+  309  http https://rickandmortyapi.com/api
+  310  http https://rickandmortyapi.com/api/character/2
+  311  https://rickandmortyapi.com/api/character/?name=rick&status=alive
+  312  http https://rickandmortyapi.com/api/character
+  313  http https://rickandmortyapi.com/api/rick sanchez
+  314  http https://rickandmortyapi.com/api/character/[1,2,3]
+  315  git branch ajax-project-setup
+  316  git switch ajax-project-setup 
+  317  http https://api.bls.gov/publicAPI/v1/timeseries/data/
+  318  http https://api.bls.gov/publicAPI/v1/timeseries/data/LAUCN040010000000005
+  319  git add .
+  320  git commit -m "tested API request for AJAX project"
+  321  git add .
+  322  git commit -m "tested API request for AJAX project"
+  323  git switch main
+  324  git pull origin main
+  325  git branch es6-const-let
+  326  git switch es6-const-let 
+  327  git add es6-const-let
+  328  git commit -m "converted each variable to const or let"
+  329  git push origin es6-const-let
+  330  git add es6-const-let
+  331  git commit -m "rearranged variable to not be undefined due to hoisting"
+  332  git push origin es6-const-let
+  333  git switch main
+  334  cd
+  335  cd command-lin-basics.targ.gz
+  336  /workspaces/c0123-code-solutions/
+  337  list
+  338  ls -a
+  339  ls -a
+  340  cd
+  341  /workspaces/c0123-code-solutions/command-line-basics (command-line-basics)
+  342  /workspaces/c0123-code-solutions/command-line-basics
+  343  /workspaces/c0123-code-solutions/
+  344  man man
+  345  man cat
+  346  man NAME
+  347  man name
+  348  man man
+  349  man cat
+  350  cat laziness.txt
+  351  cat laziness.txt impatience.txt hubris.txt > three-virtues.txt
+  352  man cat laziness.txt
+  353  man cat impatience.txt
+  354  man cat hubris.txt
+  355  man cat laziness.txt impatience.txt hubris.txt > three-vituse.txt
+  356  cat laziness.txt impatience.txt hubris.txt > three-virtues.txt
+  357  man cat laziness.txt impatience.txt hubris.txt > three-virtues.txt
+  358  man cat laziness.txt
+  359  cat print laziness.txt
+  360  cat laziness.txt
+  361  man cat laziness.txt
+  362  cat impatience.txt
+  363  cat impatience.txt
+  364  man cat impatience.txt
+  365  man ls
+  366  man ls
+  367  ls
+  368  ls -a
+  369  ls -F
+  370  ls lfz-staff/
+  371  man pwd
+  372  man pwd
+  373  pwd
+  374  pwd > i-was-here.txt
+  375  ls
+  376  cat i-was-here.txt 
+  377  man echo
+  378  echo
+  379  echo 'Hello, World!" 
+  380  echo
+  381  q
+  382  cd
+  383  q
+  384  cd
+  385  echo 'Hello, World!' > hello.txt
+  386  ls
+  387  cat hello.txt 
+  388  man touch
+  389  man touch tag-youre-it.txt
+  390  ls
+  391  ls -a
+  392  ls
+  393  man touch
+  394  touch tag-youre-it.txt
+  395  ls
+  396  touch snoot
+  397  ls
+  398  /snoot
+  399  snoot
+  400  cat snoot
+  401  ls
+  402  pwd
+  403  /dev/sno
+  404  ls
+  405  ls
+  406  man cat
+  407  pwd
+  408  pwd > i-was-here.txt
+  409  cat i-was-here.txt 
+  410  man echo
+  411  man touch
+  412  man touch snoot/boop.txt
+  413  ls
+  414  man touch
+  415  touch
+  416  touch snoot/boop.txt
+  417  touch
+  418  man touch
+  419  touch snoots/boop.txt
+  420  ls
+  421  man mkdir
+  422  mkdir parent
+  423  ls
+  424  mkdir snoot
+  425  rm snoot
+  426  ls
+  427  mkdir snoot
+  428  snoot
+  429  ;s
+  430  ls
+  431  mkdir -p parent/child/grandchild
+  432  ls 
+  433  parent/child/grandchild/
+  434  pwd
+  435  /home/dev/parent/child/grandchild
+  436  touch snoot/boop.txt
+  437  ls
+  438  ls snoot
+  439  touch parent/child/grandchild/.gitkeep
+  440  ls
+  441  ls parent/
+  442  ls parent/child/grandchild/
+  443  ls parent/child/grandchild
+  444  touch parent/child/grandchild/test.gitkeep
+  445  ls parent/child/grandchild/
+  446  ls -a
+  447  ls -a parent/child/grandchild/
+  448  man mv
+  449  mv pokiemans pokemon
+  450  man mv
+  451  ls
+  452  man rm
+  453  rm lol.txt
+  454  /workspaces/c0123-code-solutions/command-line-basics/
+  455  /workspaces/c0123-code-solutions/command-line-basics (command-line-basics)
+  456  cd
+  457  cd /workspaces/c0123-code-solutions/command-line-basics 
+  458  cd command-line-bascis
+  459  git list
+  460  git branch
+  461  man man
+  462  man ls
+  463  ls
+  464  cd
+  465  ls
+  466  cd
+  467  q
+  468  git branch
+  469  git switch command-line-basics
+  470  git branch command-line-basics/
+  471  git branch command-line-basics
+  472  git switch command-line-basics
+  473  cd command-line-basics
+  474  ls
+  475  ls lfz-staff/
+  476  ls -aF lfz-staff > lfz-staff/contents.tx
+  477  cat lfz-staff/contents.tx 
+  478  pwd
+  479  pwd > i-was-here.txt
+  480  pwd > i-was-here.txt
+  481  ls
+  482  echo 'Hello, World! > hello.txt
+  483  q
+  484  echoo 'Hello, World!'
+  485  echo 'Hello, World!'
+  486  echo 'Hello, World!' > hello.txt
+  487  ls
+  488  cat hello.txt
+  489  touch tag-youre-it.txt
+  490  ls
+  491  touch snoot/boop.txt
+  492  ls
+  493  exit
+  494  cd
+  495  exit
+  496  exit
+  497  cd
+  498  exit
+  499  command-line-basics/
+  500  command-line-basics
+  501  cd command-line-basics/
+  502  cat laziness.txt impatience.txt hubris.txt > three-virtues.txt
+  503  cat three-virtues.txt 
+  504  ls -aF lfz-staff > lfz-staff/contents.txt
+  505  cat lfz-staff/contents.tx
+  506  pwd > i-was-here.txt
+  507  cat i-was-here.txt 
+  508  echo 'Hello, World!' > hello.txt
+  509  cat hello.txt 
+  510  touch snoot/boop.txt
+  511  ls snoot/
+  512  mkdir -p parent/child/grandchild
+  513  touch parent/child/grandchild/.gitkeep
+  514  cat parent/child/grandchild/.gitkeep 
+  515  mb pokiemans pojemon
+  516  mv pokiemans pokemon
+  517  ls
+  518  rm lol.txt 
+  519  rm -r kill-me/
+  520  ls
+  521  cp and-then.txt no-and-then-txt
+  522  ls
+  523  man history
+  524  history > command-history.txt
